@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mapsRinteractive",
+    "oncran": true
+  },
+  {
+    "package": "SurfaceTortoise",
+    "oncran": true
+  }
+]
